@@ -1,0 +1,38 @@
+/* IDS */
+#btnmenu {
+    display: block;
+}
+
+#menu {
+    display: none;
+}
+
+#banner {
+    display: none;
+}
+
+/* Tags */
+nav {
+    position: relative;
+    z-index: 10000;
+    float: left;
+}
+
+nav ul li {
+    width: 100%;
+    float: left;
+    padding: 10px 0px;
+}
+
+footer {
+    display: none;
+}
+
+/* Classes */
+main .receita {
+    width: 100%;
+}
+
+main .receita img {
+    width: 95%;
+}
