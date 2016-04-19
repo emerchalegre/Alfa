@@ -1,0 +1,20 @@
+#banner {
+    display: none;
+}
+
+main .receita {
+    width: 45%;
+    
+}
+
+main .receita img {
+    width: 95%;
+}
+
+#btnmenu {
+    display: block;
+}
+
+#menu {
+    display: none;
+}
